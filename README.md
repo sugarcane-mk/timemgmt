@@ -33,4 +33,4 @@ To run this project, you'll need the following:
     pip install requirements.txt
 3. Run the python file
    ```bash
-   python main.py
+   python timemgmt.py
