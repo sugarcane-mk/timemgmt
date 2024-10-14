@@ -28,5 +28,9 @@ To run this project, you'll need the following:
 
    ```bash
    git clone https://github.com/sugarcane-mk/timemgmt.git
-2. Install the requirements pip install requirements.txt
+2. Install the requirements
+   ```bash
+    pip install requirements.txt
 3. Run the python file
+   ```bash
+   python main.py
